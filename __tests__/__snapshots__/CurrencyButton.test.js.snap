@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CurrencyButton> renders correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <View
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "margin": 16,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      clickable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "borderColor": "#000341",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "height": 32,
+          "margin": 8,
+          "opacity": 1,
+          "width": 100,
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "alignSelf": "center",
+              "fontSize": 20,
+            }
+          }
+        >
+          INR
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      clickable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "borderColor": "#000341",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "height": 32,
+          "margin": 8,
+          "opacity": 1,
+          "width": 100,
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "alignSelf": "center",
+              "fontSize": 20,
+            }
+          }
+        >
+          AED
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      clickable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "borderColor": "#000341",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "height": 32,
+          "margin": 8,
+          "opacity": 1,
+          "width": 100,
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "alignSelf": "center",
+              "fontSize": 20,
+            }
+          }
+        >
+          SAR
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#d4d4d4",
+        "height": 1,
+        "marginTop": 16,
+        "width": 750,
+      }
+    }
+  />
+</RCTSafeAreaView>
+`;
